@@ -6,3 +6,7 @@ p{
     color: pink;
     font-family: fantasy;
 }
+
+ul{
+    list-style-type: square
+}
